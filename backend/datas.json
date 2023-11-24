@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2023-07-19",
+    "time": "11.00 am to 1.00 am",
+    "vchef": "Ram",
+    "nchef": "Gopal",
+    "svitem": "[\"Panner masala\",\"naan\",\"panner tikka\"]",
+    "snvitem": "[\"chicken grill\",\"chicken masala\",\"naan\"]"
+  },
+  {
+    "date": "2023-07-19",
+    "time": "1.00 pm to 3.00 pm",
+    "vchef": "Nardenar",
+    "nchef": "Sundar",
+    "svitem": "[\"Panne tikka\",\"Naan\",\"Panner butter masala\",\"Gulab jamun\",\"Mushroom gravy\",\"Mushroom bbq\",\"Pinapple bbq\"]",
+    "snvitem": "[\"Chicken grill\",\"mutton sheek kebab\",\"tandoori\",\"chicken shawarma\",\"beef shawarma\",\"chicken cutlet\",\"chicken masala\"]"
+  },
+  {
+    "date": "2023-07-25",
+    "time": "11.00 am to 1.00 am",
+    "vchef": "Venkat",
+    "nchef": "Nathu",
+    "svitem": "[\"gobi manchuriyan\",\"Naan \",\"Panner butter masala\",\"Mushroom fry\",\"potato Bajji\",\"crispy corn \"]",
+    "snvitem": "[\"Chicken tandoori\",\"Chicken 65\",\"mutton kheema\",\"Golden prawn  fry\"]"
+  },
+  {
+    "date": "2023-07-23",
+    "time": "11.00 am to 1.00 am",
+    "vchef": "veg",
+    "nchef": "non",
+    "svitem": "[\"naan\",\"panner masala\"]",
+    "snvitem": "[\"chicken tikka\",\"mutton fry\"]"
+  },
+  {
+    "date": "2023-07-30",
+    "time": "11.00 am to 1.00 am",
+    "vchef": "sunil",
+    "nchef": "dinil",
+    "svitem": "[\"panner\",\"naan\",\"dosa\"]",
+    "snvitem": "[\"chicken gravy\",\"mutton chucka\"]"
+  }
+]
